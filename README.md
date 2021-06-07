@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on 🐙 [Tentaculo Digital](https://tentaculo.digital/) in project the Digital Bank the 💳 [Conta Xip](https://www.contaxip.com/) 
 - 🌱 I’m currently learning Data Science and Machine Learning 🤖
 - ⚡ Fun fact: I love Storytelling and Music but I'm a horrible musician
+- 💻 We already know the answer is 42. But what's the question?
 
 
 ## How to reach me:
@@ -31,6 +32,18 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
