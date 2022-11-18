@@ -4,7 +4,7 @@
 **eriklm42/eriklm42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on 🐙 [Tentaculo Digital](https://tentaculo.digital/) in project the Digital Bank the 💳 [Conta Xip](https://www.contaxip.com/) 
+
 - 🌱 I’m currently learning Data Science and Machine Learning 🤖
 - ⚡ Fun fact: I love Storytelling and Music but I'm a horrible musician
 - 💻 We already know the answer is 42. But what's the question?
