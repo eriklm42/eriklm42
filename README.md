@@ -1,52 +1,163 @@
-### Hi there 👋, I'm Erik
+# Hi there! 👋 I'm Erik Lucas Maros
 
-<!--
-**eriklm42/eriklm42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<div align="center">
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Full+Stack+Developer;RAG+Systems+Specialist;Prompt+Engineering+Expert;5%2B+Years+Coding+Experience)
 
-- 🌱 I’m currently learning Data Science and Machine Learning 🤖
-- ⚡ Fun fact: I love Storytelling and Music but I'm a horrible musician
-- 💻 We already know the answer is 42. But what's the question?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-maros-81916869/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eriklm42@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5547992214081)
 
+</div>
 
-## How to reach me:
-[<img align="left" alt="LinkedIn" width="80" src="https://camo.githubusercontent.com/a5703af244b3ebc1d9cd4d13b98f04aa7a64caffb3bd825072f3d9ae7f1f2bd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f64656e696c736f6e63616d6172612f" />](https://www.linkedin.com/in/erik-maros-81916869/)
-[<img align="left" alt="Whatsapp" width="100" src="https://camo.githubusercontent.com/2399bb6b5f6c035f949125087c612f903f38535960b675ed779eb3d1cab4e82a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57686174736170702d3443413134333f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d344341313433266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6170692e77686174736170702e636f6d2f73656e643f70686f6e653d35353836393838363639373331" />](https://api.whatsapp.com/send?phone=5547992214081)
-[<img align="left" alt="gmail" width="68" src="https://camo.githubusercontent.com/ec4f067f73326998a62abd73e130ee5480243c140557a47b8db7ee7543ea8aae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a646965676f2e726f647269676f2e616e647261646540676d61696c2e636f6d" />](mailto:eriklm42@gmail.com)
-<br />
-<br />
+---
 
-## Languages and Tools
-<img align="left" alt="React" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="JavaScript" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="MongoDB" width="50" src="https://img.icons8.com/color/452/mongodb.png" />
-<img align="left" alt="SQL" width="50" src="https://icons-for-free.com/iconfiles/png/512/logo+my+query+server+sql+icon-1320184811372606623.png" />
-<img align="left" alt="AWS" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" />
-<img align="left" alt="Tensorflow" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
-<img align="left" alt="Pandas" width="110" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" />
-<img align="left" alt="Git" width="50" src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png" />
+## 🤖 About Me
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+I'm a **passionate AI Engineer** specializing in **RAG systems**, **prompt engineering**, and **production AI applications**. Currently pursuing Computer Science with focus on Machine Learning and Data Science.
 
+- 🔭 **Currently building**: Enterprise RAG chatbot with Gemini 1.5 Flash & ChromaDB
+- 🌱 **Learning**: Advanced MLOps, Computer Vision, and Reinforcement Learning  
+- 🎯 **Goal**: Democratize AI through practical, scalable solutions
+- ⚡ **Fun fact**: I believe the answer is 42, but I'm still figuring out the question! 🚀
 
+---
 
-#### Working in progress...                                                                                                      🚶🏼 🚶🏼 🚶
+## 🚀 Featured AI Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| [**🤖 PayIP RAG Chatbot**](https://github.com/eriklm42/chat-bot) | Enterprise chatbot with 38 integrated functions | Gemini 1.5, ChromaDB, LangChain, AWS Lambda | 🟢 Production |
+| [**🗺️ Itajaí Accessibility Map**](https://github.com/eriklm42/Graphics-Geographic-Map) | Geospatial AI for urban accessibility analysis | Python, GeoPandas, Folium | 🟢 Complete |
+| [**🌐 Neural Translation System**](https://github.com/eriklm42/Spell-Checker-NLP) | NLP system using pre-trained transformers | HuggingFace, PyTorch, Transformers | 🟢 Complete |
+| [**⚡ Big Data Analytics**](https://github.com/eriklm42/pyspark) | Distributed computing for massive datasets | PySpark, Hadoop | 🟢 Complete |
+
+</div>
+
+---
+
+## 🧠 AI/ML Expertise
+
+<div align="center">
+
+### 🤖 Core AI Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🔗 LLMs & RAG
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4B4B?style=for-the-badge&logo=database&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 💻 Full Stack Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Key Achievements
+
+<div align="center">
+
+🎯 **70% reduction** in customer service response time with RAG implementation  
+🚀 **38 AI functions** integrated in production chatbot  
+🗺️ **Geospatial analysis** of entire Itajaí metropolitan area  
+⚡ **Real-time processing** of large-scale distributed datasets  
+🤖 **Production AI** systems serving 1000+ daily queries  
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eriklm42&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriklm42&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eriklm42&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🔬 **Research**: Advanced RAG techniques and multi-modal AI
+- 🛠️ **Building**: Next-gen AI tools for enterprise applications  
+- 📚 **Learning**: MLOps, model fine-tuning, and computer vision
+- 🌍 **Contributing**: Open-source AI projects and community
+
+---
+
+## 💼 Professional Interests
+
+```python
+expertise = {
+    "ai_engineering": ["RAG Systems", "LLM Integration", "Vector Databases"],
+    "prompt_engineering": ["Chain-of-Thought", "Few-shot Learning", "System Optimization"],
+    "ml_ops": ["Model Deployment", "Performance Monitoring", "A/B Testing"],
+    "data_science": ["Geospatial Analysis", "Big Data Processing", "Predictive Analytics"]
+}
+
+current_learning = ["Computer Vision", "Reinforcement Learning", "Edge AI Deployment"]
+```
+
+---
+
+## 🌟 What Makes Me Different
+
+- 🚀 **Production Experience**: Real AI systems in production, not just demos
+- 🧠 **Problem-Solver**: Overcome resource limitations and technical challenges
+- 🔄 **Full-Stack AI**: From data preprocessing to user interface
+- 📈 **Business Impact**: Focus on ROI and measurable results
+- 🔍 **Continuous Learner**: Always exploring cutting-edge AI technologies
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+**Looking for AI Engineering opportunities or collaboration on innovative projects?**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-maros-81916869/)
+[![Email](https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eriklm42@gmail.com)
+
+**🌟 Open to discussing AI projects, job opportunities, and innovative collaborations! 🌟**
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 "The best way to predict the future is to invent it" - Alan Kay
+
+![Profile Views](https://komarev.com/ghpvc/?username=eriklm42&color=brightgreen&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/eriklm42?style=for-the-badge&color=blue)](https://github.com/eriklm42)
+
+</div> 
