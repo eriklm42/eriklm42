@@ -97,9 +97,6 @@ I'm a **passionate AI Engineer** specializing in **RAG systems**, **prompt engin
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eriklm42&theme=tokyonight)](https://git.io/streak-stats)
-
 </div>
 
 ---
